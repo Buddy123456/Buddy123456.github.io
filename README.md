@@ -16,6 +16,6 @@ This is my Camera Effects Project.
 
 Storyscape 
 
-This is my Storyscape Project.There are a lare amount of trees and this is a forest theme with a small creek.
+This is my Storyscape Project. There are a lare amount of trees and this is a forest theme with a small creek.
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/jkeel1234/forest-copy-copy-copy-copy-copy" ></script>
